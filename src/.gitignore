@@ -1,0 +1,9 @@
+*~
+*.bak
+*.pyc
+*.diff
+*.patch
+*#
+.DS_Store
+.project
+.pydevproject
