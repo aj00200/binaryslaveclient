@@ -3,7 +3,7 @@ Binary Slave
 
 Install
 -------
-We are glad you are interested! However, this software is not yet ready for use in the wild. But if you are looking for adventure, you should just be able to clone the repository, copy main.ini.demo to ~/.binaryslaveserver/main.ini, and run src/binaryslave.py. If not, poke Aj00200 because he forgot to update the readme (or the world exploded and it is his fault).
+We are glad you are interested! However, this software is not yet ready for use in the wild. But if you are looking for adventure, you should just be able to clone the repository, copy main.ini.demo to ~/.binaryslave/main.ini, and run src/binaryslave.py. If not, poke Aj00200 because he forgot to update the readme (or the world exploded and it is his fault).
 
 What is this?
 -------------

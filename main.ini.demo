@@ -1,0 +1,6 @@
+[main]
+server = 127.0.0.1
+
+[proxy]
+toraddress = 127.0.0.1
+torport = 9050
